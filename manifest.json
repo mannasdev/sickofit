@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "sick of it",
+  "name": "Thick of it is trash",
   "version": "1.0",
-  "description": "Automatically mutes if you accidentally get thick of it",
+  "description": "Silence the noise: Instantly mute KSI's 'Thick of It'",
   "permissions": [
     "activeTab"
   ],
